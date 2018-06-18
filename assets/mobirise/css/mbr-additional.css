@@ -130,7 +130,7 @@ body {
   border-radius: 3px;
 }
 .bg-primary {
-  background-color: #c3bbf7 !important;
+  background-color: #f7d019 !important;
 }
 .bg-success {
   background-color: #18e7a9 !important;
@@ -146,23 +146,23 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #c3bbf7 !important;
-  border-color: #c3bbf7 !important;
-  color: #ffffff !important;
+  background-color: #f7d019 !important;
+  border-color: #f7d019 !important;
+  color: #100e01 !important;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary.focus,
 .btn-primary.active {
-  color: #ffffff !important;
-  background-color: #8777ef !important;
-  border-color: #8777ef !important;
+  color: #100e01 !important;
+  background-color: #bd9d07 !important;
+  border-color: #bd9d07 !important;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
-  color: #ffffff !important;
-  background-color: #8777ef !important;
-  border-color: #8777ef !important;
+  color: #100e01 !important;
+  background-color: #bd9d07 !important;
+  border-color: #bd9d07 !important;
 }
 .btn-secondary,
 .btn-secondary:active {
@@ -310,22 +310,22 @@ body {
 .btn-primary-outline,
 .btn-primary-outline:active {
   background: none;
-  border-color: #7260ec;
-  color: #7260ec;
+  border-color: #a48806;
+  color: #a48806;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
 .btn-primary-outline.focus,
 .btn-primary-outline.active {
-  color: #ffffff;
-  background-color: #c3bbf7;
-  border-color: #c3bbf7;
+  color: #100e01;
+  background-color: #f7d019;
+  border-color: #f7d019;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
-  color: #ffffff !important;
-  background-color: #c3bbf7 !important;
-  border-color: #c3bbf7 !important;
+  color: #100e01 !important;
+  background-color: #f7d019 !important;
+  border-color: #f7d019 !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active {
@@ -462,7 +462,7 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #c3bbf7 !important;
+  color: #f7d019 !important;
 }
 .text-secondary {
   color: #ff3366 !important;
@@ -487,7 +487,7 @@ body {
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #7260ec !important;
+  color: #a48806 !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
@@ -545,9 +545,9 @@ a.text-black:focus {
   border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #c3bbf7;
-  border-color: #c3bbf7;
-  color: #ffffff;
+  background-color: #f7d019;
+  border-color: #f7d019;
+  color: #292201;
 }
 .mbr-gallery-filter li.active .btn:focus {
   box-shadow: none;
@@ -563,11 +563,11 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #c3bbf7;
+  color: #f7d019;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #fef8de;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -685,7 +685,7 @@ blockquote {
   padding: 10px 0 10px 20px;
   font-size: 1.09rem;
   position: relative;
-  border-color: #c3bbf7;
+  border-color: #f7d019;
   border-width: 3px;
 }
 ul,
@@ -773,7 +773,7 @@ pre {
   text-align: center;
   position: relative;
   border: 2px solid #c0a375;
-  border-color: #c3bbf7;
+  border-color: #f7d019;
   color: #232323;
   cursor: pointer;
 }
@@ -784,7 +784,7 @@ pre {
 }
 .btn-social:hover {
   color: #fff;
-  background: #c3bbf7;
+  background: #f7d019;
 }
 .btn-social + .btn {
   margin-left: .1rem;
@@ -792,11 +792,11 @@ pre {
 /* Footer */
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #c3bbf7;
+  background: #f7d019;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #c3bbf7;
+  color: #f7d019;
 }
 .footer3 input[type="email"],
 .footer4 input[type="email"] {
@@ -2059,8 +2059,8 @@ body {
   color: #333333;
 }
 .cid-qVki9SakFx {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-qVki9SakFx .mbr-section-subtitle {
@@ -2112,6 +2112,11 @@ body {
     padding-left: 0;
     padding-bottom: 2rem;
   }
+}
+.cid-qVkIqdAZrk {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
 }
 .cid-qVkwJZOMSY .google-map {
   height: 25rem;
