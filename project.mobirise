@@ -19,7 +19,7 @@
         "display2Size": "2.2",
         "display5Font": "PT Serif",
         "display5Size": "1.2",
-        "display7Font": "田相岳六朝小楷",
+        "display7Font": "PT Serif",
         "display7Size": "1",
         "display4Font": "Rubik",
         "display4Size": "0.6",
@@ -793,7 +793,7 @@
                 "overlay": false,
                 "contentAlign": "left",
                 "text": "大家來上課",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-7\" data-app-placeholder=\"Type Text\" href=\"index.html#header2-4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">能學什麼？</a> <a data-app-btn=\"true\" class=\"btn btn-success display-7\" data-app-placeholder=\"Type Text\" href=\"index.html#features17-9\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">報名一起學</a>   "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-7\" data-app-placeholder=\"Type Text\" href=\"index.html#header2-4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">能學什麼？</a>    "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/o8d-class-12-2000x1358.png",
