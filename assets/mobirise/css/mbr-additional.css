@@ -2016,16 +2016,22 @@ body {
 .cid-qVkhIp1qWe {
   padding-top: 45px;
   padding-bottom: 30px;
-  background-color: #f7d019;
+  background-color: #f9f9f9;
+}
+.cid-qVkhIp1qWe H2 {
+  color: #232323;
+}
+.cid-qVkhIp1qWe .mbr-section-subtitle {
+  color: #232323;
 }
 .cid-qVkhyCkW1V {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #f9f9f9;
+  background-color: #f9f295;
 }
 .cid-qVkhyCkW1V .line {
-  background-color: #f7d019;
-  color: #f7d019;
+  background-color: #ffffff;
+  color: #ffffff;
   align: center;
   height: 2px;
   margin: 0 auto;
