@@ -286,10 +286,10 @@
             },
             "P": {
               "text-align": "left",
-              "color": "#232323"
+              "color": "#55b4d4"
             },
             "B": {
-              "color": "#232323"
+              "color": "#55b4d4"
             }
           },
           "_name": "slider1",
