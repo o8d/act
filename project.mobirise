@@ -796,7 +796,7 @@
                 "overlay": false,
                 "contentAlign": "left",
                 "text": "大家來上課",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-7\" data-app-placeholder=\"Type Text\" href=\"index.html#content5-13\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">能學什麼？</a> <a data-app-btn=\"true\" class=\"btn btn-success display-7\" data-app-placeholder=\"Type Text\" href=\"index.html#content5-x\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">關於慢慢學</a>    "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-7\" data-app-placeholder=\"Type Text\" href=\"index.html#content5-13\" data-toolbar=\"-mbrBtnMove\">能學什麼？</a> <a data-app-btn=\"true\" class=\"btn btn-success display-7\" data-app-placeholder=\"Type Text\" href=\"index.html#content5-x\" data-toolbar=\"-mbrBtnMove\">關於慢慢學</a>    "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/o8d-class-12-2000x1358.png",
