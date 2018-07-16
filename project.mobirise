@@ -2785,9 +2785,9 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/1531640883-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2802,7 +2802,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/1531640891-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
