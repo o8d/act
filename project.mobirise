@@ -5682,10 +5682,10 @@
         {
           "_params": {
             "token": "5004705790.727bfe1.02a758a00c964b8981e744924a603100",
-            "showTitle": true,
+            "showTitle": false,
             "layoutGridRadio": true,
-            "imagesPerRowGrid": 4,
-            "rows": 2,
+            "imagesPerRowGrid": "5",
+            "rows": "8",
             "showMoreButton": true,
             "layoutSliderRadio": false,
             "imagesPerRowSlider": 4,
@@ -5702,7 +5702,7 @@
             "overlayOpacity": 0.6
           },
           "title": "O8D ACT &nbsp;IG-BOOk",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"1641943416521889422_5004705790\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"1641943416521889422_5004705790\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\"><span class=\"mbri-plus mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "display2": "display-2",
           "display4": "display-4",
           "alias": "instagram-feed",
