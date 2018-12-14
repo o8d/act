@@ -6,10 +6,10 @@
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#74c190",
+        "primaryColor": "#604e13",
         "secondaryColor": "#ff3366",
         "successColor": "#F7ED4A",
-        "infoColor": "#82786E",
+        "infoColor": "#604e13",
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
@@ -315,6 +315,9 @@
             },
             "H2": {
               "color": "#746223"
+            },
+            "FONT": {
+              "color": "#604e13"
             }
           },
           "_name": "slider1",
@@ -343,12 +346,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-7",
+                "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b><br>O8D ACT</b><br><b>慢動作</b>",
+                "title": "<br><b>O8D ACT</b><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "&nbsp; &nbsp; 蝸牛巷慢慢走",
+                "text": "蝸牛巷慢慢走",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/class/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">近期動態</a> ",
                 "overlayOpacity": "0",
                 "overlayColor": "#ffffff"
@@ -364,7 +367,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "慢慢學",
+                "title": "<b>慢慢學</b>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "蝸牛巷的社區學習課",
@@ -386,7 +389,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "蝸牛巷裡的生活筆記",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-black\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/story/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">新站</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://o8d-tainan.tumblr.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">舊站</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/story/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">新站</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://o8d-tainan.tumblr.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">舊站</a>  ",
                 "overlayOpacity": "0"
               },
               {
