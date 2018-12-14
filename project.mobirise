@@ -24,8 +24,8 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#020f13",
@@ -35,6 +35,10 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/o8d-class-2-10-128x127.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined",
     "uniqCompNum": 1,
     "versionPublish": "4.8.1"
   },
