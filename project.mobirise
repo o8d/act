@@ -352,7 +352,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "蝸牛巷慢動作",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/class/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">近期動態</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/act\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">近期動態</a> ",
                 "overlayOpacity": "0",
                 "overlayColor": "#ffffff"
               },
