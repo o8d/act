@@ -317,7 +317,7 @@
               "color": "#746223"
             },
             "FONT": {
-              "color": "#604e13"
+              "color": "#ffffff"
             }
           },
           "_name": "slider1",
@@ -385,7 +385,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<font color=\"#b1a374\"><b>煮故事書</b></font>",
+                "title": "<font color=\"#b1a374\">煮故事書</font>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "蝸牛巷裡的生活史筆記",
