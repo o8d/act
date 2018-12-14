@@ -35,7 +35,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/o8d-class-2-10-128x127.png",
+    "favicon": "@PROJECT_PATH@/assets/images/o8d-class-2-11-128x127.png",
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
@@ -291,6 +291,9 @@
             },
             "P": {
               "color": "#b1a374"
+            },
+            "H2": {
+              "color": "#e4d295"
             }
           },
           "_name": "slider1",
@@ -342,7 +345,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "蝸牛巷的地方生活筆記",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/story/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">新站</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://o8d-tainan.tumblr.com/\" data-toolbar=\"-mbrBtnMove\">舊站</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/story/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">新站</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://o8d-tainan.tumblr.com/\" data-toolbar=\"-mbrBtnMove\">舊站</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/icon-2-2000x947.png",
