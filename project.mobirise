@@ -307,17 +307,17 @@
               "z-index": "auto"
             },
             "B": {
-              "color": "#604e13"
+              "color": "#ffffff"
             },
             "P": {
-              "color": "#604e13",
+              "color": "#ffffff",
               "text-align": "center"
             },
             "H2": {
               "color": "#746223"
             },
             "FONT": {
-              "color": "#604e13"
+              "color": "#ffffff"
             }
           },
           "_name": "slider1",
@@ -338,8 +338,8 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/o8d-class-15-2000x1244.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/-15-2000x1245.jpg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -352,7 +352,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "蝸牛巷慢動作",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/act/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">近期動態</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/act/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">近期動態</a> ",
                 "overlayOpacity": "0",
                 "overlayColor": "#ffffff"
               },
@@ -385,17 +385,17 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<font color=\"#b1a374\"><b>煮故事 書</b></font>",
+                "title": "<font color=\"#b1a374\">煮故事 書</font>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "蝸牛巷裡的生活史筆記",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/story/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">新站</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://o8d-tainan.tumblr.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">舊站</a>  ",
-                "overlayOpacity": "0.3"
+                "overlayOpacity": "0.1"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/icon-2-2000x947.png",
-                "active": true,
-                "showButtons": false,
+                "active": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -406,9 +406,9 @@
                 "title": "<b>市集</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "蝸牛巷裡的買賣交誼",
+                "text": "蝸牛巷的買賣交誼",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://spark.adobe.com/page/dllpzmVKBRElI/#_=_\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">o8d .1</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://o8d2.tumblr.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">o8d .2</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/group/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">o8d .3</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/o8d4/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">o8d .4</a>",
-                "overlayOpacity": "0.2",
+                "overlayOpacity": "0.1",
                 "overlayColor": "#232323"
               }
             ]
