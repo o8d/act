@@ -314,7 +314,7 @@
               "text-align": "center"
             },
             "H2": {
-              "color": "#746223"
+              "color": "#ffffff"
             },
             "FONT": {
               "color": "#ffffff"
@@ -403,7 +403,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b>市集</b>",
+                "title": "<b>O8D MARKET</b>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "蝸牛巷的買賣交誼",
