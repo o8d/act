@@ -1622,10 +1622,42 @@ body {
 .cid-rccbd5W9WN FONT {
   color: #ffffff;
 }
+.cid-rdvtcMAvzk {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rdvtcMAvzk .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rdvtcMAvzk .section-text {
+  padding: 2rem 0;
+}
+.cid-rdvtcMAvzk .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rdvtcMAvzk .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rciLVBSUEV {
   padding-top: 120px;
   padding-bottom: 120px;
   background-image: url("../../../assets/images/-2018-12-15-11.13.20-1364x908.png");
+}
+.cid-rdvtdHAPH1 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rdvtdHAPH1 .mbr-text,
+.cid-rdvtdHAPH1 blockquote {
+  color: #767676;
 }
 .cid-rciLWFDQ6e {
   padding-top: 120px;
