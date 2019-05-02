@@ -427,7 +427,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "2019-大宮町之華-從蝸牛巷找回大宮町",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">歡迎光臨</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/2019/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">歡迎光臨</a> ",
                 "overlayOpacity": "0",
                 "overlayColor": "#ffffff"
               }
