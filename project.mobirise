@@ -416,7 +416,7 @@
                 "image": "@PROJECT_PATH@/assets/images/banner-1-2000x872.jpg",
                 "active": true,
                 "showButtons": true,
-                "showText": true,
+                "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
