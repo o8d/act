@@ -321,7 +321,7 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#232323",
+              "color": "#ffffff",
               "text-align": "right"
             },
             "H2": {
@@ -351,7 +351,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/15-2000x1245.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
@@ -362,7 +362,7 @@
                 "customStyle3": "display-4",
                 "title": "<br><b>O8D ACT</b><br>",
                 "overlay": true,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "text": "<b>蝸牛巷慢動作</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"index.html#header1-q\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">近期動態</a> ",
                 "overlayOpacity": "0",
@@ -372,7 +372,7 @@
                 "image": "@PROJECT_PATH@/assets/images/1-2000x1358.jpg",
                 "active": false,
                 "showButtons": true,
-                "showText": true,
+                "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -399,7 +399,7 @@
                 "customStyle3": "display-4",
                 "title": "<font color=\"#b1a374\"><b>煮故事 書</b></font>",
                 "overlay": true,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "text": "<b>蝸牛巷裡的生活史筆記</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/story/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">故事</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://o8d-tainan.tumblr.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">網誌版</a>  ",
                 "overlayOpacity": "0.1"
@@ -413,11 +413,11 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-1",
+                "customStyle2": "display-2",
                 "customStyle3": "display-4",
                 "title": "<b>O8D MARKET</b>",
                 "overlay": true,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "text": "<b>蝸牛巷的買賣交誼</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://spark.adobe.com/page/dllpzmVKBRElI/#_=_\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">o8d .1</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://o8d2.tumblr.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">o8d .2</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/group/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">o8d .3</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/o8d4/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">o8d .4</a>",
                 "overlayOpacity": "0.1",
@@ -444,8 +444,8 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/s-49250310.jpg",
-                "active": true,
-                "showButtons": true,
+                "active": false,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
