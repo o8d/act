@@ -33,7 +33,8 @@
         "#877537",
         "#604e13",
         "#746223",
-        "#decc91"
+        "#decc91",
+        "#96895d"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -326,7 +327,7 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#decc91",
+              "color": "#96895d",
               "text-align": "right"
             },
             "H2": {
@@ -406,7 +407,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "<b>蝸牛巷裡的</b><br><b>生活史筆記</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/story/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">故事</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://o8d-tainan.tumblr.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">網誌版</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/story/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">筆記檔</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://o8d-tainan.tumblr.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">網誌版</a>  ",
                 "overlayOpacity": "0.1"
               },
               {
