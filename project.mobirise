@@ -13,8 +13,8 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Rubik",
-        "display1Size": 4.25,
+        "display1Font": "Poppins",
+        "display1Size": "5",
         "display2Font": "Rubik",
         "display2Size": 3,
         "display5Font": "Rubik",
@@ -52,6 +52,11 @@
         "css": "'Montserrat', sans-serif",
         "name": "Montserrat",
         "url": "https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+      },
+      {
+        "css": "'Rubik', sans-serif",
+        "name": "Rubik",
+        "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/o8d-class-2-11-128x127.png",
@@ -59,8 +64,14 @@
     "google-analytics": "",
     "siteUrl": "undefined",
     "uniqCompNum": 28,
-    "versionPublish": "4.10.5",
-    "screenshot": "screenshot.png"
+    "versionPublish": "4.12.1",
+    "screenshot": "screenshot.png",
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -310,12 +321,12 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#ffffff",
-              "text-align": "center"
+              "color": "#cc2952",
+              "text-align": "right"
             },
             "H2": {
-              "color": "#ffffff",
-              "text-align": "center"
+              "color": "#cc2952",
+              "text-align": "right"
             },
             "FONT": {
               "color": "#ffffff"
@@ -414,7 +425,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/banner-1-2000x872.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": false,
@@ -430,6 +441,26 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/2020/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">歡迎光臨</a> ",
                 "overlayOpacity": "0",
                 "overlayColor": "#ffffff"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/s-49250310.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "<b>Dà Gōng Dīng Zhī Huá</b>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "2020-大宮町之華-從蝸牛巷找回大宮町",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/2020/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">歡迎光臨</a> ",
+                "overlayOpacity": "0",
+                "overlayColor": "#ffffff",
+                "textTitle": "2020的社區安逸"
               }
             ]
           }
