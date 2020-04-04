@@ -350,7 +350,7 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": "5000",
+            "slides__autoplayInterval": "7000",
             "slides__showBullets": true,
             "slides": [
               {
@@ -410,7 +410,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/icon-2-2000x947.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
@@ -448,7 +448,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/s-49250310.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
