@@ -321,12 +321,12 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#cc2952",
-              "text-align": "right"
+              "color": "#232323",
+              "text-align": "center"
             },
             "H2": {
               "color": "#cc2952",
-              "text-align": "right"
+              "text-align": "center"
             },
             "FONT": {
               "color": "#ffffff"
@@ -354,16 +354,16 @@
                 "active": false,
                 "showButtons": true,
                 "showText": true,
-                "showTitle": true,
+                "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-5",
+                "customStyle2": "display-1",
                 "customStyle3": "display-4",
                 "title": "<br><b>O8D ACT</b><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "蝸牛巷慢動作",
+                "text": "<b>蝸牛巷慢動作</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"index.html#header1-q\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">近期動態</a> ",
                 "overlayOpacity": "0",
                 "overlayColor": "#ffffff"
@@ -373,16 +373,16 @@
                 "active": false,
                 "showButtons": true,
                 "showText": true,
-                "showTitle": true,
+                "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-5",
+                "customStyle2": "display-2",
                 "customStyle3": "display-4",
                 "title": "<b>慢慢學</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "蝸牛巷的社區學習課",
+                "text": "<b>蝸牛巷的社區學習課</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/class/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">課堂內容</a> ",
                 "overlayOpacity": "0.1"
               },
@@ -391,16 +391,16 @@
                 "active": false,
                 "showButtons": true,
                 "showText": true,
-                "showTitle": true,
+                "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-5",
+                "customStyle2": "display-2",
                 "customStyle3": "display-4",
                 "title": "<font color=\"#b1a374\"><b>煮故事 書</b></font>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "蝸牛巷裡的生活史筆記",
+                "text": "<b>蝸牛巷裡的生活史筆記</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/story/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">故事</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://o8d-tainan.tumblr.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">網誌版</a>  ",
                 "overlayOpacity": "0.1"
               },
@@ -409,16 +409,16 @@
                 "active": false,
                 "showButtons": true,
                 "showText": true,
-                "showTitle": true,
+                "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-5",
+                "customStyle2": "display-1",
                 "customStyle3": "display-4",
                 "title": "<b>O8D MARKET</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "蝸牛巷的買賣交誼",
+                "text": "<b>蝸牛巷的買賣交誼</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://spark.adobe.com/page/dllpzmVKBRElI/#_=_\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">o8d .1</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://o8d2.tumblr.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">o8d .2</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/group/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">o8d .3</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/o8d4/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">o8d .4</a>",
                 "overlayOpacity": "0.1",
                 "overlayColor": "#232323"
@@ -445,22 +445,22 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/s-49250310.jpg",
                 "active": true,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
+                "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "<b>Dà Gōng Dīng Zhī Huá</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "2020-大宮町之華-從蝸牛巷找回大宮町",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/2020/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">歡迎光臨</a> ",
+                "text": "<b>大宮町之華-從蝸牛巷找回大宮町</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/2020/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">安逸集</a> ",
                 "overlayOpacity": "0",
                 "overlayColor": "#ffffff",
-                "textTitle": "2020的社區安逸"
+                "textTitle": "<b><i>2020的社區安逸</i></b>"
               }
             ]
           }
@@ -515,7 +515,7 @@
             }
           },
           "_name": "header1",
-          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/s-49250312.jpeg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#7f1933\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#149dcc\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    FULL WIDTH INTRO\n                </h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">以蝸牛巷街區出發，嘗試採集舊時光的生活紋理</p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-white\" href=\"https://o8d.github.io/2019\" data-app-placeholder=\"Type Text\" target=\"_blank\">2019</a> <a class=\"btn btn-md btn-white\" href=\"https://o8d.github.io/2020\" data-app-placeholder=\"Type Text\" target=\"_blank\">2020</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/s-49250313.jpeg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#7f1933\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#149dcc\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    FULL WIDTH INTRO\n                </h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">以蝸牛巷街區出發，嘗試採集舊時光的生活紋理</p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-white\" href=\"https://o8d.github.io/2019\" data-app-placeholder=\"Type Text\" target=\"_blank\">2019</a> <a class=\"btn btn-md btn-white\" href=\"https://o8d.github.io/2020\" data-app-placeholder=\"Type Text\" target=\"_blank\">2020</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_anchor": "header1-s",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
