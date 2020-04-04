@@ -355,7 +355,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/15-2000x1245.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
@@ -410,7 +410,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/icon-2-2000x947.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
