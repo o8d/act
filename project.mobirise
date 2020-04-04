@@ -325,7 +325,7 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#cc2952",
+              "color": "#232323",
               "text-align": "right"
             },
             "H2": {
@@ -460,7 +460,7 @@
                 "title": "<b>Dà Gōng Dīng Zhī Huá</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<br>：<b>大宮町之華-從蝸牛巷找回大宮町：<br>：遊逛了你我的生活</b>：<font color=\"#ffffff\"><b><br>我過我的日子，你逛你的巷子</b></font>",
+                "text": "<b><i>：大宮町之華-從蝸牛巷找回大宮町：<br>：遊逛了你我的生活：</i></b><font color=\"#ffffff\"><b><br>我過我的日子，你逛你的巷子</b></font>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/2020/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">安逸集</a> ",
                 "overlayOpacity": "0",
                 "overlayColor": "#ffffff",
