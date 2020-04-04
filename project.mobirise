@@ -32,7 +32,8 @@
         "#74c190",
         "#877537",
         "#604e13",
-        "#746223"
+        "#746223",
+        "#decc91"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -325,7 +326,7 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#b1a374",
+              "color": "#decc91",
               "text-align": "right"
             },
             "H2": {
@@ -404,7 +405,7 @@
                 "title": "<font color=\"#b1a374\"><b>煮故事 書</b></font>",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "<b>蝸牛巷裡的生活史筆記</b>",
+                "text": "<b>蝸牛巷裡的生活<br>史筆記</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/story/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">故事</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://o8d-tainan.tumblr.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">網誌版</a>  ",
                 "overlayOpacity": "0.1"
               },
