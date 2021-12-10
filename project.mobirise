@@ -77,7 +77,8 @@
     "cssOptimize": false,
     "lazyLoad": false,
     "lazyType": "nothing",
-    "pwa-switcher": false
+    "pwa-switcher": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -484,7 +485,7 @@
                 "title": "<b>O8D MARKET</b>",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "<i>2021街區資深住民xRE蝸牛巷裝置</i>",
+                "text": "2021住民、老職人與他/她們的蝸牛裝置",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-warning\" data-app-placeholder=\"Type Text\" href=\"https://o8d.github.io/re-2021/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">前往專頁</a>   ",
                 "overlayOpacity": "0.1",
                 "overlayColor": "#232323"
