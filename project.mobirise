@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "opd.act",
+    "name": "蝸牛巷",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -78,13 +78,15 @@
     "lazyLoad": false,
     "lazyType": "nothing",
     "pwa-switcher": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "chatbutton": {},
+    "mbrsiteDomain": "rfsgppovxv"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "o8d act",
+        "title": "蝸牛巷snail-alley",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
