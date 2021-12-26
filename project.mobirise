@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "蝸牛巷",
+    "name": "蝸牛巷 台南",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -80,13 +80,13 @@
     "pwa-switcher": false,
     "publishChangesOnly": true,
     "chatbutton": {},
-    "mbrsiteDomain": "rfsgppovxv"
+    "mbrsiteDomain": "jh6wugehin"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "蝸牛巷snail-alley",
+        "title": "蝸牛巷 台南",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
